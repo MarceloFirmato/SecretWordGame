@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarceloFirmato/SecretWordGame.git/static/css/main.5f9fd542.css",
+    "main.js": "/MarceloFirmato/SecretWordGame.git/static/js/main.7f240329.js",
+    "static/js/787.c74d0e55.chunk.js": "/MarceloFirmato/SecretWordGame.git/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/MarceloFirmato/SecretWordGame.git/index.html",
+    "main.5f9fd542.css.map": "/MarceloFirmato/SecretWordGame.git/static/css/main.5f9fd542.css.map",
+    "main.7f240329.js.map": "/MarceloFirmato/SecretWordGame.git/static/js/main.7f240329.js.map",
+    "787.c74d0e55.chunk.js.map": "/MarceloFirmato/SecretWordGame.git/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9fd542.css",
+    "static/js/main.7f240329.js"
+  ]
+}
